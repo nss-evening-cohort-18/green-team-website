@@ -1,1 +1,0 @@
-const mike = 1;
